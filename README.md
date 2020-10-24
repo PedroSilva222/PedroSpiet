@@ -1,7 +1,5 @@
 # Pedro Emanoel
 
-Software Engineer
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroemanoelnascimento/)](https://www.linkedin.com/in/pedroemanoelnascimento/)
 [![Gmail Badge](https://img.shields.io/badge/-PedroSpiet@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:PedroSpiet@gmail.com)](mailto:PedroSpiet@gmail.com)
 
