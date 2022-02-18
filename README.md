@@ -6,7 +6,6 @@ Hi, My name is Pedro 👩‍💻.
 
 @@I'm a software developer@@
 + Living in São Paulo, Brazil 🇧🇷.
-- 19 years old
 ! communicative, enthusiastic and always learning
 
 # 📖 Programming languages, web development and mobile
